@@ -3,7 +3,7 @@
 ##      Pipeline for RNA-seq using TopHat/Cufflinks protocol.
 ##      Aligned to NCBIm37 / mm9 with Ensembl annotation.
 ##
-##                                              Cynthia Alexander Rascon 2014-06
+##                                              Abdulsala Toyin 2014-06
 ##
 ################################################################################
 
